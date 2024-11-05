@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Unrestricted Set-ScreenResolution\Set-ScreenResolution.ps1 1920 1080 120
